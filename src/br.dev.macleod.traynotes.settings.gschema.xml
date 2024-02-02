@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<schemalist>
+  <schema id="br.dev.macleod.traynotes" path="/br/dev/macleod/traynotes/">
+    <key name="opened-file" type="s">
+      <default>"Teste"</default>
+      <summary>Default note file</summary>
+    </key>
+  </schema>
+</schemalist>
